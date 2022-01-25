@@ -1,2 +1,2 @@
--10 years of historical data for the Fear and Greed Index & AAII
+-historical data for the Fear and Greed Index & AAII
 -backtesting strategy using Python and Backtrader library
